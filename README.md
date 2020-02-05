@@ -1,3 +1,3 @@
-# The circus.Circus Project
+# The Circus Project
 
-* Used for in-class testing
+* Used for in-class demo, testing git branches & merges
